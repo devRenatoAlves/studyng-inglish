@@ -9,4 +9,3 @@ Anotar traduções, dicas e avisos.
 ## Objetivo
 
 Tenho como objetivo aprender inglês para uso profissional, estudos e para futuras viagens para o exterior.
-
