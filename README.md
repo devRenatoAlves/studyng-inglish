@@ -4,7 +4,7 @@ Colocarei neste repositório todas as anotações sobre meu curso de inglês.
 
 ## Oque será anotado
 
-Anotar traduções, dicas e avisos.
+Anotar traduções, dicas e avisos. 
 
 ## Objetivo
 
