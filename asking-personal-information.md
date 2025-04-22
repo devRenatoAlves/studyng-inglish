@@ -2,7 +2,7 @@
 
 ## Nome
 
-- What's your first?
+- What's your first name?
 - It's "Paulo"
 
 Full\
